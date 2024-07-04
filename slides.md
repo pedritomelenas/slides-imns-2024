@@ -26,7 +26,6 @@ background: ""
 
 ![](/logo-junta.png)
 
-
 </div>
 <div>
 <br>
