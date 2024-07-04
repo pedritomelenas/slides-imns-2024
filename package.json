@@ -7,11 +7,11 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.22.0",
+    "@slidev/cli": "*",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.11.1"
+    "playwright-chromium": "*"
   },
-  "name": "simple-slidev-sample"
+  "name": "slides-jerez"
 }
 
