@@ -258,16 +258,19 @@ $$|S\cap [h,h']| = \operatorname{nd}(h')-\operatorname{nd}(h)$$
 
 <div class="absolute left-20% top-52%">
 
+Our Hasse diaagram
 
-<img src="/469-gaps-n-divs.svg" alt="469-gap-ndivs" class="right" width="75%">
+<img src="/469-gaps-n-divs.svg" alt="469-gap-ndivs"  width="75%">
 
 
 </div>
 
-<div class="absolute left-50% top-50%">
+<div class="absolute left-50% top-52%">
+
+Our semigroup
 
 <br><br><br>
-$0$, $\textcolor{red}{\sout{1}}$, $\textcolor{red}{\sout{2}}$, $\textcolor{red}{\sout{3}}$, $4$, $\textcolor{red}{\sout{5}}$, $6$, $\textcolor{red}{\sout{7}}$, 8, 9, 10, $\textcolor{red}{\sout{10}}$, $11$, $\to$ 
+$0$, <v-click> $\textcolor{red}{\sout{1}}$, $\textcolor{red}{\sout{2}}$, $\textcolor{red}{\sout{3}}$, </v-click>  <v-click> $4$, </v-click> <v-click> $\textcolor{red}{\sout{5}}$, </v-click>  <v-click> $6$, </v-click> <v-click> $\textcolor{red}{\sout{7}}$, </v-click> <v-click> 8, 9, 10, </v-click> <v-click> $\textcolor{red}{\sout{10}}$, </v-click> <v-click> $11$, $\to$ </v-click> 
 
 </div>
 
