@@ -6,6 +6,7 @@ coverAuthorUrl: [https://www.ugr.es/local/pedro]
 title: "The set of normalized ideals of a numerical semigroup"
 coverDate: ""
 background: ""
+download: true
 ---
 
 ## The set of normalized ideals of a numerical semigroup
