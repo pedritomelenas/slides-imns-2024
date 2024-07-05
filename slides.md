@@ -196,7 +196,7 @@ Hasse diagram of $\footnotesize{(\mathcal{I}_0(\langle 4,6,9\rangle),\subseteq)}
 
 ---
 
-# How to recover completely $S$ from $(\mathcal{I}_0(S),\subseteq)$?
+# How to fully recover $S$ from $(\mathcal{I}_0(S),\subseteq)$?
 
 *Idea*: $\{0,g\}+S\subseteq \{0,g'\}+S$ if and only if $g'\le_S g$
 
@@ -247,11 +247,11 @@ Define $\mathcal{P}_0(S) = \big\lbrace {\{0,g\}+S} : g\in \mathbb{N}\setminus S 
 
 ---
 
-# How to recover completely $S$ from $(\mathbb{N}\setminus S,\le_S)$?
+# How to fully reconstruct $S$ from $(\mathbb{N}\setminus S,\le_S)$?
 
 *Idea*: counting "divisors"
 
-For $h\in \mathbb{N}\semtinus S$, set $\operatorname{nd}(h)=|\{ h'\in \mathbb{N}\setminus S : h'\le_S h\}|$
+For $h\in \mathbb{N}\setminus S$, set $\operatorname{nd}(h)=|\{ h'\in \mathbb{N}\setminus S : h'\le_S h\}|$
 
 **Result:** For every $h,h'\in \mathbb{N}\setminus S$, $h\le h'$, 
 $$|S\cap [h,h']| = \operatorname{nd}(h')-\operatorname{nd}(h)$$
